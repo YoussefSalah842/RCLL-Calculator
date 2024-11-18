@@ -1,0 +1,10 @@
+c:\users\yyy\documents\visual studio 2015\Projects\RCLL Calculator\RCLL Calculator\bin\Debug\RCLL Calculator.exe.config
+c:\users\yyy\documents\visual studio 2015\Projects\RCLL Calculator\RCLL Calculator\obj\Debug\RCLL Calculator.csprojResolveAssemblyReference.cache
+c:\users\yyy\documents\visual studio 2015\Projects\RCLL Calculator\RCLL Calculator\obj\Debug\RCLL_Calculator.Properties.Resources.resources
+c:\users\yyy\documents\visual studio 2015\Projects\RCLL Calculator\RCLL Calculator\obj\Debug\RCLL Calculator.csproj.GenerateResource.Cache
+c:\users\yyy\documents\visual studio 2015\Projects\RCLL Calculator\RCLL Calculator\bin\Debug\RCLL Calculator.exe
+c:\users\yyy\documents\visual studio 2015\Projects\RCLL Calculator\RCLL Calculator\bin\Debug\RCLL Calculator.pdb
+c:\users\yyy\documents\visual studio 2015\Projects\RCLL Calculator\RCLL Calculator\obj\Debug\RCLL Calculator.exe
+c:\users\yyy\documents\visual studio 2015\Projects\RCLL Calculator\RCLL Calculator\obj\Debug\RCLL Calculator.pdb
+c:\users\yyy\documents\visual studio 2015\Projects\RCLL Calculator\RCLL Calculator\obj\Debug\RCLL_Calculator.CalculatorForm.resources
+C:\Users\yyy\documents\visual studio 2015\Projects\RCLL Calculator\RCLL Calculator\obj\Debug\RCLL_Calculator.About.resources
