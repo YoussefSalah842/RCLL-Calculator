@@ -66,8 +66,8 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(165, 80);
             this.label2.TabIndex = 2;
-            this.label2.Text = "RCLL Calculator\r\nVersion: 1.0\r\nBuild: 1200\r\nDeveloper: Youssef Salah\r\nRelease Dat" +
-    "e: 2024/11/18";
+            this.label2.Text = "RCLL Calculator\r\nVersion: 1.1\r\nBuild: 1400\r\nDeveloper: Youssef Salah\r\nRelease Dat" +
+    "e: 2024/11/20";
             // 
             // label3
             // 
